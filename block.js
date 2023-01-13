@@ -1575,19 +1575,6 @@ const blocks = [
       default: EntryStatic.colorSet.common.TRANSPARENT,
       darken: EntryStatic.colorSet.common.TRANSPARENT,
     },
-    params: [
-      {
-        type: "Text",
-        text: "Danger",
-        color: EntryStatic.colorSet.common.TEXT,
-        class: "bold",
-        align: "center",
-      },
-    ],
-    def: [],
-    map: {},
-    class: "text",
-  },
   {
     name: "ExpressBlock_Copy",
     template: "%1",
