@@ -1568,14 +1568,6 @@ const blocks = [
     },
   },
   {
-    name: "ExpressBlock_DangerBlocks",
-    template: "%1",
-    skeleton: "basic_text",
-    color: {
-      default: EntryStatic.colorSet.common.TRANSPARENT,
-      darken: EntryStatic.colorSet.common.TRANSPARENT,
-    },
-  {
     name: "ExpressBlock_Copy",
     template: "%1",
     skeleton: "basic_text",
